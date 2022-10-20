@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### Hi, I'm Efra 👋
+### Hi, I'm Mateo Acevedo (Matiu) 👋
 
 I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
 
@@ -17,19 +17,18 @@ I enjoy working on complex architecture systems with technologies like Docker, N
 
 ---
 
-- 🔭 I’m currently working on __[@fonoster](https://github.com/fonoster)__ and __[@turnly](https://github.com/turnly)__
-- 💬 Ask me about: Software Architecture, Art, Coffee, and whatever you're building.
+- 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente)
 - ⚡ Fun facts:
-  - I've never been a games fan
-  - A dark knight 🌚 🦇 (Productive at night)
-  - Former art painter
+  - Play videogames 🎮
+  - I draw when I have time 🎨
+  - I Like to watch anime ✨
 
 <br />
 <br />
 
 <p align="center">
-  <a href="https://twitter.com/e_fraa">Twitter</a> •
-  <a href="https://www.linkedin.com/in/efraa">LinkedIn</a> •
-  <a href="mailto:efra23peralta@gmail.com">Mail</a> •
-  <a href="https://turnly.app">Get Turnly</a>
+  <a href="https://twitter.com/codekenma">Twitter</a> •
+  <a href="https://do.linkedin.com/in/mateo-acevedo-b07a72202">LinkedIn</a> •
+  <a href="mailto:mateoacevedo809@gmail.com">Mail</a> •
+  <a href="https://turnly.app">Get Turnly 🚀</a>
 </p>
