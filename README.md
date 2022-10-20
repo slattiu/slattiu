@@ -10,10 +10,15 @@
 
 I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
 
-I enjoy collaborating on developing systems from scratch using all possible shoes. <br />
-Most of the time I belong to the front-end engineering team but I have to admit that I lean towards back-end engineering.
+I enjoy collaborating on developing systems from scratch using all possible shoes.
 
-I enjoy working on complex architecture systems with technologies like Docker, NodeJS, GraphQL, AWS, gRPC, RN, and NextJS.
+I enjoy working with the following tools and technologies:
+
+- NodeJS
+- Typescript
+- ReactJS
+- VueJS
+- Adobe Coldfusion
 
 ---
 
