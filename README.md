@@ -8,25 +8,27 @@
 
 ### Hi, I'm Mateo Acevedo (Matiu) 👋
 
+---
+
 I'm a software development enthusiast who loves technology built to improve and simplify the user experience.
 
 I enjoy collaborating on developing systems from scratch using all possible shoes.
 
-I enjoy working with the following tools and technologies:
-
-- NodeJS
-- Typescript
-- ReactJS
-- VueJS
-- Adobe Coldfusion
-
+- 🧑🏻‍💻 I enjoy working with the following tools and technologies:
+  - NodeJS
+  - Javascript 
+  - Typescript
+  - ReactJS
+  - VueJS
+  - Adobe Coldfusion
+ 
 ---
 
 - 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente)
 - ⚡ Fun facts:
   - Play videogames 🎮
-  - I draw when I have time 🎨
-  - I Like to watch anime ✨
+  - Draw when I have time 🎨
+  - Watch anime ✨
 
 <br />
 <br />
