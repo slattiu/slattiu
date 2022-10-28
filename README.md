@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### Hi, I'm Mateo Acevedo (Matiu) 👋
+### Hi, I'm Mateo Acevedo Vargas (Matiu) 👋
 
 ---
 
@@ -21,20 +21,29 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
   - ReactJS
   - VueJS
   - Adobe Coldfusion
- 
+
 ---
 
-- 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente)
+- 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente) as Full Stack Developer
 - ⚡ Fun facts:
   - Play videogames 🎮
-  - Draw when I have time 🎨
+  - Draw when i have time 🎨
   - Watch anime ✨
+
+---
+
+### Stats 
+![Matiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiuudev&count_private=true&show_icons=true&theme=dark)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiuudev&layout=compact)
+<br/>
+
 
 <br />
 <br />
 
 <p align="center">
-  <a href="https://twitter.com/codekenma">Twitter</a> •
+  <a href="https://twitter.com/matiuudev">Twitter</a> •
   <a href="https://do.linkedin.com/in/mateo-acevedo-b07a72202">LinkedIn</a> •
   <a href="mailto:mateoacevedo809@gmail.com">Mail</a> •
   <a href="https://turnly.app">Get Turnly 🚀</a>
