@@ -33,9 +33,9 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
 ---
 
 ### Stats 
-![Matiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiuudev&count_private=true&show_icons=true&theme=dark)
+![Matiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deloreean&count_private=true&show_icons=true&theme=dark)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiuudev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deloreean&layout=compact)
 <br/>
 
 
