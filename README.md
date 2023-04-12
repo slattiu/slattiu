@@ -49,4 +49,3 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
   <a href="https://turnly.app">Get Turnly 🚀</a>
 </p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=klokfredo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=klokfredo&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=0fe208)]]
