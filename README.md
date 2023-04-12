@@ -37,7 +37,7 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=deloreean&count_private=true&show_icons=true&theme=dark"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deloreean&layout=compact"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deloreean&layout=compact&theme=dark"/></td>
   </tr>
 </table> 
 
