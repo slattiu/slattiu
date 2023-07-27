@@ -42,6 +42,8 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
 </table> 
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klokfredo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ooaatss/ooaatss/blob/main/devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
+
 
 ---
 <p align="center">
