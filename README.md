@@ -21,10 +21,12 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
   - ReactJS
   - VueJS
   - Adobe Coldfusion
+  - NestJS
+  - React Native
 
 ---
 
-- 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente) as Full Stack Developer AND HarPer SRL as Frontend Developer 
+- 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente) as Full Stack Developer using Lucee (Open Source Coldfusion Framework)
 - ⚡ Fun facts:
   - Play videogames 🎮
   - Draw when i have time 🎨
