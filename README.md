@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### Hi, I'm Mateo Acevedo Vargas (Matiu) 👋
+### Hi, I'm Mateo Acevedo Vargas (Slattiu) 👋
 
 ---
 
@@ -15,12 +15,13 @@ I'm a software development enthusiast who loves technology built to improve and 
 I enjoy collaborating on developing systems from scratch using all possible shoes.
 
 - 🧑🏻‍💻 I enjoy working with the following tools and technologies:
+- 
   - NodeJS
   - Javascript 
   - Typescript
   - ReactJS
   - VueJS
-  - Adobe Coldfusion
+  - Adobe Coldfusion, Luceee
   - NestJS
   - React Native
 
@@ -28,8 +29,6 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
 
 - 🔭 I’m currently working on CONAPE (Consejo Nacional de la Persona Envejeciente) as Full Stack Developer using Lucee (Open Source Coldfusion Framework)
 - ⚡ Fun facts:
-  - Play videogames 🎮
-  - Draw when i have time 🎨
   - Watch anime ✨
 
 ---
