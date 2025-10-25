@@ -36,14 +36,13 @@ I enjoy collaborating on developing systems from scratch using all possible shoe
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=ooaatss&count_private=true&show_icons=true&theme=dark"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=slattiu&count_private=true&show_icons=true&theme=dark"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooaatss&layout=compact&theme=dark"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slattiu&layout=compact&theme=dark"/></td>
   </tr>
 </table> 
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=klokfredo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ooaatss/ooaatss/blob/main/devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=klokfredo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ---
